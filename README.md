@@ -2,7 +2,7 @@
 
 - 👾 Atualmente (tentando) atuando como GameDev
 - 🌱 Estudando constantemente C#
-- 📫 Se quiser dar uma olhadinha no processo: https://rafa-malv.itch.io
+- 📫 Se quiser dar uma olhadinha no processo: https://coffeecakestudio.carrd.co
 ##
 <div style="display: inline_block">
   <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
